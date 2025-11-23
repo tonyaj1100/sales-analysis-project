@@ -124,7 +124,7 @@ Open the `sales_dashboard.pbix` file in Power BI Desktop.
 
 Below is a preview of the final Power BI dashboard:
 
-![Retail Sales Dashboard](reports/dashboard_screenshots/dashboard.jpg)
+![Retail Sales Dashboard](reports/dashboards_screenshots/dashboard.jpg)
 
 ---
 
@@ -147,5 +147,6 @@ Data Analyst
 📧 tonyaj1100@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/tony-antony-data)  
 🔗 [GitHub](https://github.com/tonyaj1100)
+
 
 
