@@ -124,19 +124,18 @@ Open the `sales_dashboard.pbix` file in Power BI Desktop.
 
 Below is a preview of the final Power BI dashboard:
 
-![Retail Sales Dashboard](reports/dashboards_screenshots/dashboard.jpg)
+![Sales Dashboard](dashboards_screenshots/dashboard.jpg)
 
 ---
 
-## 📝 Final Summary (For Recruiters)
-This project demonstrates skills in:
-- Python (Pandas, NumPy, Matplotlib)
-- SQL-like transformations
-- Power BI dashboard development
-- Data cleaning & preprocessing
-- EDA & business insights generation
-- Git/GitHub version control
-- Communication of insights
+## ⭐ Project Highlights
+
+- Cleaned and transformed 38K+ retail transactions using Python (Pandas)
+- Built 10+ KPIs: Total Sales, Profit Margin %, Avg Discount, Quantity Sold, etc.
+- Designed a fully interactive Power BI dashboard with slicers and drill-downs
+- Created region, category, and segment-level insights
+- Implemented bookmarks, slicers, and custom themes for better UX
+
 
 ---
 
@@ -147,6 +146,7 @@ Data Analyst
 📧 tonyaj1100@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/tony-antony-data)  
 🔗 [GitHub](https://github.com/tonyaj1100)
+
 
 
 
